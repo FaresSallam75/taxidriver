@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509704591066",
+    "project_id": "chatlive-fc70b",
+    "storage_bucket": "chatlive-fc70b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509704591066:android:5911eb41bc35d7ef3037e3",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GaEHlIzuIuXY6SvQOt42OVOCmAs7TuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

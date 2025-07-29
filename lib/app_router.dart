@@ -29,6 +29,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 final Map<String, Widget Function(BuildContext)> routes = {
+  // thanks
   AppRoutes.welcomeScreen:
       (context) =>
           myBox!.get("userEmail") != null
